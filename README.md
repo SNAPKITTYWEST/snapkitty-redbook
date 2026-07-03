@@ -44,6 +44,10 @@ A cinematic digital book where the page turns while a SnapKitty agent reads the 
 > **Ω** Evidence or Silence.
 > You may claim anything. But if you cannot provide evidence — a sealed, verifiable, timestamped artifact — then you must be silent.
 
+## Download
+
+- **[Download the Red Book (PDF, 500 pages)](SNAPKITTY_RED_BOOK.pdf)**
+
 ## Links
 
 - [C-Suite Dashboard](csuite.html)
